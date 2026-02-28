@@ -21,7 +21,7 @@ The final query is assembled live in a preview bar at the bottom, ready to copy 
 
 ## Screenshots
 
-<div style="display: flex; justify-content: center; gap: 50px;">
+<div style="display: flex; justify-content: center; gap: 150px;">
   <img src="screenshots/Screenshot 2026-02-28 154759.png" style="width: 45%;" />
   <img src="screenshots/Screenshot 2026-02-28 154822.png" style="width: 45%;" />
 </div>
