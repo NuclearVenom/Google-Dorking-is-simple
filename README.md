@@ -23,7 +23,7 @@ The final query is assembled live in a preview bar at the bottom, ready to copy 
 
 <p align="center">
   <img src="screenshots/Screenshot 2026-02-28 154759.png" width="45%" />
-  <img src="screenshots/Screenshot 2026-02-28 154822.png" width="45%" style="margin-left: 2000px;" />
+  <img src="screenshots/Screenshot 2026-02-28 154822.png" width="45%" />
 </p>
 
 ---
