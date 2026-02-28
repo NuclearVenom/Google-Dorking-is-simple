@@ -21,7 +21,10 @@ The final query is assembled live in a preview bar at the bottom, ready to copy 
 
 ## Screenshots
 
-![Main Panel](<screenshots/Screenshot 2026-02-28 154759.png>)  ![An Example](<screenshots/Screenshot 2026-02-28 154822.png>)
+<p align="center">
+  <img src="screenshots/Screenshot 2026-02-28 154759.png" width="45%" />
+  <img src="screenshots/Screenshot 2026-02-28 154822.png" width="45%" />
+</p>
 
 ---
 
