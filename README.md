@@ -21,7 +21,8 @@ The final query is assembled live in a preview bar at the bottom, ready to copy 
 
 ## Screenshots
 
-> *Dark high-contrast theme with per-row operator toggles, group selectors, join-mode controls, and scrollable presets.*
+![Main Panel](screenshots/Screenshot 2026-02-28 154759.png)
+![An Example](Screenshot 2026-02-28 154822.png)
 
 ---
 
