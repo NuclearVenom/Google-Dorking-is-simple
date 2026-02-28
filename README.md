@@ -21,10 +21,10 @@ The final query is assembled live in a preview bar at the bottom, ready to copy 
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshots/Screenshot 2026-02-28 154759.png" width="45%" />
-  <img src="screenshots/Screenshot 2026-02-28 154822.png" width="45%" />
-</p>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="screenshots/Screenshot 2026-02-28 154759.png" style="width: 45%;" />
+  <img src="screenshots/Screenshot 2026-02-28 154822.png" style="width: 45%;" />
+</div>
 
 ---
 
