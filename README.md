@@ -2,9 +2,9 @@
 
 A Python/PyQt5 desktop GUI for constructing advanced Google search queries using the full set of Google dorking operators and filters — no manual syntax required.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)          
-![PyQt5](https://img.shields.io/badge/PyQt5-5.x-green?style=flat-square)              
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat-square)             
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)  
+![PyQt5](https://img.shields.io/badge/PyQt5-5.x-green?style=flat-square)  
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat-square)  
 ![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)
 
 ---
